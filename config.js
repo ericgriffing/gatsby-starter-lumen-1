@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Blog by Eric Griffing',
-  subtitle: 'Eric Griffing is a data & saas enthusiast.',
+  subtitle: 'Data & saas enthusiast.',
   copyright: '© 2021 All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Eric Griffing',
     photo: '/ericspain.jpg',
-    bio: 'Eric Griffing is a data & saas enthusiast.',
+    bio: 'Data & saas enthusiast.',
     contacts: {
       email: '',
       facebook: '#',
@@ -36,7 +36,7 @@ module.exports = {
       github: '#',
       rss: '',
       vkontakte: '',
-      linkedin: 'https://www.linkedin.com/in/ericgriffing/',
+      linkedin: 'ericgriffing',
       instagram: '#',
       line: '',
       gitlab: '',
