@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Blog by Eric Griffing',
   subtitle: 'Data & saas enthusiast.',
-  copyright: '© 2021 All rights reserved.',
+  copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Eric Griffing',
-    photo: '/ericspain.jpg',
+    photo: '/ericspain_square.jpg',
     bio: 'Data & saas enthusiast.',
     contacts: {
       email: '',
