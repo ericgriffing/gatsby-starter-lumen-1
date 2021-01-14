@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Home',
       path: '/'
     },
     {
@@ -29,11 +29,11 @@ module.exports = {
     photo: '/ericspain_square.jpg',
     bio: 'Data & saas enthusiast.',
     contacts: {
-      email: '',
+      email: 'eric@saasstreet.com',
       facebook: '#',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'egriffing',
+      github: 'ericgriffing',
       rss: '',
       vkontakte: '',
       linkedin: 'ericgriffing',
